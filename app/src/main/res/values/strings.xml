@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="action_settings">Settings</string>
+    <string name="lab2">lab2</string>
+    <string name="lab3">Передать значение калькулятора на третью форму</string>
+    <string name="title_activity_main2">lab2</string>
+    <string name="title_activity_main3">Lab3</string>
+    <string name="GoToLab1buttonText">Вернутся на активити Lab1 с очисткой task stack</string>
+</resources>
